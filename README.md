@@ -25,7 +25,7 @@ A RESTful Spring Boot API for lightweight project and task management. Users can
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/sagaragrawal738/task-tracker.git
 cd task-tracker-api
 
 # Build and run
